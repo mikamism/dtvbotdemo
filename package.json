@@ -1,0 +1,22 @@
+{
+  "name": "dtvbotdemo",
+  "version": "1.0.0",
+  "description": "dtvbotdemo",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikamism/dtvbotdemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikamism/dtvbotdemo/issues"
+  },
+  "homepage": "https://github.com/mikamism/dtvbotdemo#readme"
+}
